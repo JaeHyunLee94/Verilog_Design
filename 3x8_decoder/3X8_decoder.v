@@ -1,6 +1,6 @@
 `timescale 1ns/100ps
 
-module m_3x8_encoder(out, x,y,z);
+module m_3x8_decoder(out, x,y,z);
 
 input wire x,y,z;
 output wire[7:0] out;
@@ -14,7 +14,7 @@ module tb_decoder;
 reg x,y,z;
 wire [7:0] out;
 
-m_3x8_encoder test_encoder(out,x,y,z);
+m_3x8_encoder test_decoder(out,x,y,z);
 
 initial begin
     x=0;y=0;z=0;
