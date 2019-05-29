@@ -1,0 +1,9 @@
+C:/Users/Lee/Desktop/CODE/Verilog/Design/2x4decoder_enable/2x4_decoder_enable.v {1 {vlog -work work -stats=none {C:\Users\Lee\Desktop\CODE\Verilog\Design\2x4decoder_enable\2x4_decoder_enable.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module m2x4_decoder_enable
+-- Compiling module tb_m2x4_decoder_enable
+
+Top level modules:
+	tb_m2x4_decoder_enable
+
+} {} {}}

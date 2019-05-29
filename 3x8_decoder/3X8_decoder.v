@@ -1,34 +1,38 @@
-`timescale 1ns/100ps
+module m_3x8_decoder_RTL(out, x,y,z);
 
-module m_3x8_decoder(out, x,y,z);
+    input wire x,y,z;
+    output wire[7:0] out;
 
-input wire x,y,z;
-output wire[7:0] out;
-
-assign out={(x&&y&&z),(x&&y&&~z),(x&&~y&&z),(x&&~y&&~z),(~x&&y&&z),(~x&&y&&~z),(~x&&~y&&z),(~x&&~y&&~z)};
+    assign out={(x&&y&&z),(x&&y&&~z),(x&&~y&&z),(x&&~y&&~z),(~x&&y&&z),(~x&&y&&~z),(~x&&~y&&z),(~x&&~y&&~z)};
 
 endmodule
 
-module tb_decoder;
 
-reg x,y,z;
-wire [7:0] out;
 
-m_3x8_encoder test_decoder(out,x,y,z);
+module m_3x8_decoder_Behavior(out, x,y,z);
 
-initial begin
-    x=0;y=0;z=0;
-    #250 x=0;y=0;z=1;
-    #250 x=0;y=1;z=0;
-    #250 x=0;y=1;z=1;
-    #250 x=1;y=0;z=0;
-    #250 x=1;y=0;z=1;
-    #250 x=1;y=1;z=0;
-    #250 x=1;y=1;z=1;
-end
+    input wire x,y,z;
+    output reg[7:0] out=8'b00000000;
+
+    always @(x,y,z)begin
+        
+
+        if ({x,y,z}==3'b000) out=8'b00000001;
+        else if({x,y,z}==3'b001) out=8'b00000010;
+        else if({x,y,z}==3'b010) out=8'b00000100;
+        else if({x,y,z}==3'b011) out=8'b00001000;
+        else if({x,y,z}==3'b100) out=8'b00010000;
+        else if({x,y,z}==3'b101) out=8'b00100000;
+        else if({x,y,z}==3'b110) out=8'b01000000;
+        else  out=8'b10000000;
+        
+           
+        
+    end
+
+
 
 endmodule
-
 
 
 

@@ -1,0 +1,24 @@
+C:/Users/Lee/Desktop/CODE/Verilog/Design/3x8_decoder/3X8_decoder.v {1 {vlog -work work -stats=none {C:\Users\Lee\Desktop\CODE\Verilog\Design\3x8_decoder\3X8_decoder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module m_3x8_decoder_RTL
+-- Compiling module m_3x8_decoder_Behavior
+
+Top level modules:
+	m_3x8_decoder_RTL
+	m_3x8_decoder_Behavior
+
+} {} {}} C:/Users/Lee/Desktop/CODE/Verilog/Design/3x8_decoder/tb_3x8decoder_behavior.v {1 {vlog -work work -stats=none {C:\Users\Lee\Desktop\CODE\Verilog\Design\3x8_decoder\tb_3x8decoder_behavior.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_decoder_Behavior
+
+Top level modules:
+	tb_decoder_Behavior
+
+} {} {}} C:/Users/Lee/Desktop/CODE/Verilog/Design/3x8_decoder/tb_3x8decoder.v {1 {vlog -work work -stats=none {C:\Users\Lee\Desktop\CODE\Verilog\Design\3x8_decoder\tb_3x8decoder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_decoder_RTL
+
+Top level modules:
+	tb_decoder_RTL
+
+} {} {}}

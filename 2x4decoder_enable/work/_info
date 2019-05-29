@@ -1,0 +1,52 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Lee/Desktop/CODE/Verilog/Design/4bit_RCA
+vm2x4_decoder_enable
+Z0 !s110 1555480833
+!i10b 1
+!s100 iHoBl0UiLdUZLziBUcSEI0
+IC6lOgOWKFT2MF7R?aLdjT1
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/Lee/Desktop/CODE/Verilog/Design/2x4decoder_enable
+Z3 w1555480828
+Z4 8C:\Users\Lee\Desktop\CODE\Verilog\Design\2x4decoder_enable\2x4_decoder_enable.v
+Z5 FC:\Users\Lee\Desktop\CODE\Verilog\Design\2x4decoder_enable\2x4_decoder_enable.v
+L0 2
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1555480833.000000
+Z8 !s107 C:\Users\Lee\Desktop\CODE\Verilog\Design\2x4decoder_enable\2x4_decoder_enable.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Lee\Desktop\CODE\Verilog\Design\2x4decoder_enable\2x4_decoder_enable.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vtb_m2x4_decoder_enable
+R0
+!i10b 1
+!s100 JT4c:>PMR;K9T^6WDIAW30
+I7S8jchND1R2Ae6i@9YEk30
+R1
+R2
+R3
+R4
+R5
+L0 23
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11

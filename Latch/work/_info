@@ -1,0 +1,98 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Lee/Desktop/CODE/Verilog/Design/4bit_counter
+vD_Latch
+Z0 !s110 1558162431
+!i10b 1
+!s100 bB99:mI[zSC9VeLk4dCL51
+Ik2<Em2ezAV3h;LUH0TUz90
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/Lee/Desktop/CODE/Verilog/Design/Latch
+w1558162266
+8C:\Users\Lee\Desktop\CODE\Verilog\Design\Latch\D_Latch.v
+FC:\Users\Lee\Desktop\CODE\Verilog\Design\Latch\D_Latch.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z4 !s108 1558162430.000000
+!s107 C:\Users\Lee\Desktop\CODE\Verilog\Design\Latch\D_Latch.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Lee\Desktop\CODE\Verilog\Design\Latch\D_Latch.v|
+!i113 1
+Z5 o-work work
+Z6 tCvgOpt 0
+n@d_@latch
+vSR_latch
+Z7 !s110 1558162430
+!i10b 1
+!s100 >7VzHlCUQ?YIgjh;7;]K[1
+IHWZ?GTVWW:]1iZ4GBi1Fj3
+R1
+R2
+w1558161879
+8C:\Users\Lee\Desktop\CODE\Verilog\Design\Latch\SR_Latch.v
+FC:\Users\Lee\Desktop\CODE\Verilog\Design\Latch\SR_Latch.v
+L0 1
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:\Users\Lee\Desktop\CODE\Verilog\Design\Latch\SR_Latch.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Lee\Desktop\CODE\Verilog\Design\Latch\SR_Latch.v|
+!i113 1
+R5
+R6
+n@s@r_latch
+vtb_D_Latch
+R0
+!i10b 1
+!s100 JJhUZQZNJADSEYU3jTUSO2
+IAeFWn7PG`g<hK7XjY>]>I3
+R1
+R2
+w1558162413
+8C:\Users\Lee\Desktop\CODE\Verilog\Design\Latch\tb_D_Latch.v
+FC:\Users\Lee\Desktop\CODE\Verilog\Design\Latch\tb_D_Latch.v
+L0 3
+R3
+r1
+!s85 0
+31
+!s108 1558162431.000000
+!s107 C:\Users\Lee\Desktop\CODE\Verilog\Design\Latch\tb_D_Latch.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Lee\Desktop\CODE\Verilog\Design\Latch\tb_D_Latch.v|
+!i113 1
+R5
+R6
+ntb_@d_@latch
+vtb_SR_Latch
+R7
+!i10b 1
+!s100 <3:>Y:T[lc2AVP0]bYa8C0
+IZHC]07OQ=RQD^;JZAb:820
+R1
+R2
+w1558161728
+8C:/Users/Lee/Desktop/CODE/Verilog/Design/Latch/tb_SR_Latch.v
+FC:/Users/Lee/Desktop/CODE/Verilog/Design/Latch/tb_SR_Latch.v
+L0 3
+R3
+r1
+!s85 0
+31
+R4
+!s107 C:/Users/Lee/Desktop/CODE/Verilog/Design/Latch/tb_SR_Latch.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Lee/Desktop/CODE/Verilog/Design/Latch/tb_SR_Latch.v|
+!i113 1
+R5
+R6
+ntb_@s@r_@latch

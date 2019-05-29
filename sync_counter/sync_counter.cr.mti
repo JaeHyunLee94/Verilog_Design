@@ -1,0 +1,43 @@
+C:/Users/Lee/Desktop/CODE/Verilog/Design/sync_counter/cnt3.v {1 {vlog -work work -stats=none C:/Users/Lee/Desktop/CODE/Verilog/Design/sync_counter/cnt3.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module cnt3
+
+Top level modules:
+	cnt3
+
+} {} {}} C:/Users/Lee/Desktop/CODE/Verilog/Design/sync_counter/sync_counter.v {1 {vlog -work work -stats=none C:/Users/Lee/Desktop/CODE/Verilog/Design/sync_counter/sync_counter.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module sync_counter
+
+Top level modules:
+	sync_counter
+
+} {} {}} C:/Users/Lee/Desktop/CODE/Verilog/Design/sync_counter/tb_sync_counter.v {1 {vlog -work work -stats=none C:/Users/Lee/Desktop/CODE/Verilog/Design/sync_counter/tb_sync_counter.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_sync_counter
+
+Top level modules:
+	tb_sync_counter
+
+} {} {}} C:/Users/Lee/Desktop/CODE/Verilog/Design/sync_counter/cnt0.v {1 {vlog -work work -stats=none C:/Users/Lee/Desktop/CODE/Verilog/Design/sync_counter/cnt0.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module cnt0
+
+Top level modules:
+	cnt0
+
+} {} {}} C:/Users/Lee/Desktop/CODE/Verilog/Design/sync_counter/cnt1.v {1 {vlog -work work -stats=none C:/Users/Lee/Desktop/CODE/Verilog/Design/sync_counter/cnt1.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module cnt1
+
+Top level modules:
+	cnt1
+
+} {} {}} C:/Users/Lee/Desktop/CODE/Verilog/Design/sync_counter/cnt2.v {1 {vlog -work work -stats=none C:/Users/Lee/Desktop/CODE/Verilog/Design/sync_counter/cnt2.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module cnt2
+
+Top level modules:
+	cnt2
+
+} {} {}}

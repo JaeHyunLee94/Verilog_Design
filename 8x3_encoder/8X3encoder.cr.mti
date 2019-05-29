@@ -1,0 +1,19 @@
+C:/Users/Lee/Desktop/CODE/Verilog/Design/8X3_encoder/8X3_encoder.v {1 {vlog -work work -stats=none {C:\Users\Lee\Desktop\CODE\Verilog\Design\8X3_encoder\8X3_encoder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module m8X3_encoder
+-- Compiling module m8X3_encoder_behavior_modeling
+
+Top level modules:
+	m8X3_encoder
+	m8X3_encoder_behavior_modeling
+
+} {} {}} C:/Users/Lee/Desktop/CODE/Verilog/Design/8X3_encoder/tb_8X3encoder.v {1 {vlog -work work -stats=none {C:\Users\Lee\Desktop\CODE\Verilog\Design\8X3_encoder\tb_8X3encoder.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_m8X3_encoder
+-- Compiling module tb_m8X3_encoder_behavior_modeling
+
+Top level modules:
+	tb_m8X3_encoder
+	tb_m8X3_encoder_behavior_modeling
+
+} {} {}}

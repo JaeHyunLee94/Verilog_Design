@@ -1,0 +1,140 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Lee/Desktop/CODE/Verilog/Design/3x8_encoder
+vm_3x8_decoder
+Z0 !s110 1555378534
+!i10b 1
+!s100 G:;;7[zbEloU4WJ;KnT222
+IFG`hbBYR8IYVU9VWdEi6Y3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/Lee/Desktop/CODE/Verilog/Design/3x8_decoder
+Z3 w1555378429
+Z4 8C:/Users/Lee/Desktop/CODE/Verilog/Design/3x8_decoder/3X8_decoder.v
+Z5 FC:/Users/Lee/Desktop/CODE/Verilog/Design/3x8_decoder/3X8_decoder.v
+L0 3
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1555378534.000000
+Z8 !s107 C:/Users/Lee/Desktop/CODE/Verilog/Design/3x8_decoder/3X8_decoder.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:/Users/Lee/Desktop/CODE/Verilog/Design/3x8_decoder/3X8_decoder.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+vm_3x8_decoder_Behavior
+Z12 !s110 1555500484
+!i10b 1
+!s100 Tj0J_[X?[HceF@AIl]Ha?0
+I0ULdF@YSVVBOz@l8<3k0V0
+R1
+R2
+Z13 w1555500457
+Z14 8C:\Users\Lee\Desktop\CODE\Verilog\Design\3x8_decoder\3X8_decoder.v
+Z15 FC:\Users\Lee\Desktop\CODE\Verilog\Design\3x8_decoder\3X8_decoder.v
+Z16 L0 12
+R6
+r1
+!s85 0
+31
+Z17 !s108 1555500484.000000
+Z18 !s107 C:\Users\Lee\Desktop\CODE\Verilog\Design\3x8_decoder\3X8_decoder.v|
+Z19 !s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Lee\Desktop\CODE\Verilog\Design\3x8_decoder\3X8_decoder.v|
+!i113 1
+R10
+R11
+nm_3x8_decoder_@behavior
+vm_3x8_decoder_RTL
+R12
+!i10b 1
+!s100 LC[IbDAe<6Z`22b4hk6bA0
+IedChS?I;Yj_7mA_99_Faa3
+R1
+R2
+R13
+R14
+R15
+L0 1
+R6
+r1
+!s85 0
+31
+R17
+R18
+R19
+!i113 1
+R10
+R11
+nm_3x8_decoder_@r@t@l
+vtb_decoder
+R0
+!i10b 1
+!s100 N<d:olEZ4G_gL^VEPiJZz0
+IHT7MB;dEkCd0W86NEDL_`1
+R1
+R2
+R3
+R4
+R5
+R16
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+vtb_decoder_Behavior
+R12
+!i10b 1
+!s100 n=h``:bQ3;`ZD;Zo5[6;D1
+I1YQAHMCl7k1JF7?1hdAI@3
+R1
+R2
+w1555500462
+8C:\Users\Lee\Desktop\CODE\Verilog\Design\3x8_decoder\tb_3x8decoder_behavior.v
+FC:\Users\Lee\Desktop\CODE\Verilog\Design\3x8_decoder\tb_3x8decoder_behavior.v
+L0 3
+R6
+r1
+!s85 0
+31
+R17
+!s107 C:\Users\Lee\Desktop\CODE\Verilog\Design\3x8_decoder\tb_3x8decoder_behavior.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Lee\Desktop\CODE\Verilog\Design\3x8_decoder\tb_3x8decoder_behavior.v|
+!i113 1
+R10
+R11
+ntb_decoder_@behavior
+vtb_decoder_RTL
+R12
+!i10b 1
+!s100 `iV4QLOJZN37MaUf<@GhQ1
+IzBPBJoQe5@Y4g=hcVjUfF3
+R1
+R2
+w1555500460
+8C:\Users\Lee\Desktop\CODE\Verilog\Design\3x8_decoder\tb_3x8decoder.v
+FC:\Users\Lee\Desktop\CODE\Verilog\Design\3x8_decoder\tb_3x8decoder.v
+L0 4
+R6
+r1
+!s85 0
+31
+R17
+!s107 C:\Users\Lee\Desktop\CODE\Verilog\Design\3x8_decoder\tb_3x8decoder.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Lee\Desktop\CODE\Verilog\Design\3x8_decoder\tb_3x8decoder.v|
+!i113 1
+R10
+R11
+ntb_decoder_@r@t@l

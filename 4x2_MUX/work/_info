@@ -1,0 +1,98 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Lee/Desktop/CODE/Verilog/Design/3x8_decoder
+vm4to1_MUX_Behavior
+Z0 !s110 1555502529
+!i10b 1
+!s100 6=WU0HZIjIQnGMgX2U;oT2
+I4S[Gb1[nQR8ClQDFGRn@P3
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/Lee/Desktop/CODE/Verilog/Design/4x2_MUX
+Z3 w1555502518
+Z4 8C:\Users\Lee\Desktop\CODE\Verilog\Design\4x2_MUX\4x2_MUX.v
+Z5 FC:\Users\Lee\Desktop\CODE\Verilog\Design\4x2_MUX\4x2_MUX.v
+L0 12
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1555502529.000000
+Z8 !s107 C:\Users\Lee\Desktop\CODE\Verilog\Design\4x2_MUX\4x2_MUX.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Lee\Desktop\CODE\Verilog\Design\4x2_MUX\4x2_MUX.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+nm4to1_@m@u@x_@behavior
+vm4to1_MUX_RTL
+R0
+!i10b 1
+!s100 1<RJC@Z=34VPj_I:_=l<l1
+IzDzCib>0MJ9:2;Qn5=<fI3
+R1
+R2
+R3
+R4
+R5
+L0 1
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+nm4to1_@m@u@x_@r@t@l
+vtb_Behavior
+R0
+!i10b 1
+!s100 579on3V=3[o3<QP0lQLnb2
+IP4]?dAnXR8aeIBBGIgSj;3
+R1
+R2
+Z12 w1555502520
+Z13 8C:\Users\Lee\Desktop\CODE\Verilog\Design\4x2_MUX\tb_4x2MUX.v
+Z14 FC:\Users\Lee\Desktop\CODE\Verilog\Design\4x2_MUX\tb_4x2MUX.v
+L0 21
+R6
+r1
+!s85 0
+31
+R7
+Z15 !s107 C:\Users\Lee\Desktop\CODE\Verilog\Design\4x2_MUX\tb_4x2MUX.v|
+Z16 !s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Lee\Desktop\CODE\Verilog\Design\4x2_MUX\tb_4x2MUX.v|
+!i113 1
+R10
+R11
+ntb_@behavior
+vtb_RTL
+R0
+!i10b 1
+!s100 `0g1CfKZ3oTA>cZB<mG=I2
+IGQ5L73z]fY741_^a]__100
+R1
+R2
+R12
+R13
+R14
+L0 3
+R6
+r1
+!s85 0
+31
+R7
+R15
+R16
+!i113 1
+R10
+R11
+ntb_@r@t@l

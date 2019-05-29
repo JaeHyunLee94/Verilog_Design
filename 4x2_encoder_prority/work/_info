@@ -1,0 +1,54 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Lee/Desktop/CODE/Verilog/Design/4x2_MUX
+vm4x2_pEncoder
+Z0 !s110 1555549025
+!i10b 1
+!s100 JFHEKSF7JVF@Lj_7hf0R02
+Iid5`fh_z733NDVIak9?XL2
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/Lee/Desktop/CODE/Verilog/Design/4x2_encoder_prority
+w1555548941
+8C:\Users\Lee\Desktop\CODE\Verilog\Design\4x2_encoder_prority\4x2_encoder_priority.v
+FC:\Users\Lee\Desktop\CODE\Verilog\Design\4x2_encoder_prority\4x2_encoder_priority.v
+L0 1
+Z3 OV;L;10.5b;63
+r1
+!s85 0
+31
+!s108 1555549024.000000
+!s107 C:\Users\Lee\Desktop\CODE\Verilog\Design\4x2_encoder_prority\4x2_encoder_priority.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Lee\Desktop\CODE\Verilog\Design\4x2_encoder_prority\4x2_encoder_priority.v|
+!i113 1
+Z4 o-work work
+Z5 tCvgOpt 0
+nm4x2_p@encoder
+vtb_m4x2_pEncoder
+R0
+!i10b 1
+!s100 _GLZaVJ<oImYd3E@Izhe]1
+I6DToADP3JbYDo7HZ4M4@T1
+R1
+R2
+w1555548943
+8C:\Users\Lee\Desktop\CODE\Verilog\Design\4x2_encoder_prority\tb_4x2_encoder_priority.v
+FC:\Users\Lee\Desktop\CODE\Verilog\Design\4x2_encoder_prority\tb_4x2_encoder_priority.v
+L0 2
+R3
+r1
+!s85 0
+31
+!s108 1555549025.000000
+!s107 C:\Users\Lee\Desktop\CODE\Verilog\Design\4x2_encoder_prority\tb_4x2_encoder_priority.v|
+!s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Lee\Desktop\CODE\Verilog\Design\4x2_encoder_prority\tb_4x2_encoder_priority.v|
+!i113 1
+R4
+R5
+ntb_m4x2_p@encoder

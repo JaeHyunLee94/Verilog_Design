@@ -1,0 +1,98 @@
+m255
+K4
+z2
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/Users/Lee/Desktop/CODE/Verilog/Design/2x4decoder_enable
+vm8X3_encoder
+Z0 !s110 1555498195
+!i10b 1
+!s100 AJP7381z7DcjF8z>Hk]Na3
+IW_gaf?2;m7`m]ePl3?Dj52
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 dC:/Users/Lee/Desktop/CODE/Verilog/Design/8X3_encoder
+Z3 w1555498185
+Z4 8C:\Users\Lee\Desktop\CODE\Verilog\Design\8X3_encoder\8X3_encoder.v
+Z5 FC:\Users\Lee\Desktop\CODE\Verilog\Design\8X3_encoder\8X3_encoder.v
+L0 1
+Z6 OV;L;10.5b;63
+r1
+!s85 0
+31
+Z7 !s108 1555498194.000000
+Z8 !s107 C:\Users\Lee\Desktop\CODE\Verilog\Design\8X3_encoder\8X3_encoder.v|
+Z9 !s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Lee\Desktop\CODE\Verilog\Design\8X3_encoder\8X3_encoder.v|
+!i113 1
+Z10 o-work work
+Z11 tCvgOpt 0
+nm8@x3_encoder
+vm8X3_encoder_behavior_modeling
+R0
+!i10b 1
+!s100 XNoLR0E]zYA3@B^V:XcYi3
+I`Hd3@NHlkLO:27=bSKazH1
+R1
+R2
+R3
+R4
+R5
+L0 13
+R6
+r1
+!s85 0
+31
+R7
+R8
+R9
+!i113 1
+R10
+R11
+nm8@x3_encoder_behavior_modeling
+vtb_m8X3_encoder
+R0
+!i10b 1
+!s100 =?fMFLF55KG>TG1FN2TT82
+I1WZQAFCTF?0IVkMWcMK<o0
+R1
+R2
+Z12 w1555498182
+Z13 8C:\Users\Lee\Desktop\CODE\Verilog\Design\8X3_encoder\tb_8X3encoder.v
+Z14 FC:\Users\Lee\Desktop\CODE\Verilog\Design\8X3_encoder\tb_8X3encoder.v
+L0 3
+R6
+r1
+!s85 0
+31
+Z15 !s108 1555498195.000000
+Z16 !s107 C:\Users\Lee\Desktop\CODE\Verilog\Design\8X3_encoder\tb_8X3encoder.v|
+Z17 !s90 -reportprogress|300|-work|work|-stats=none|C:\Users\Lee\Desktop\CODE\Verilog\Design\8X3_encoder\tb_8X3encoder.v|
+!i113 1
+R10
+R11
+ntb_m8@x3_encoder
+vtb_m8X3_encoder_behavior_modeling
+R0
+!i10b 1
+!s100 S1boL;6[h>1k;`PAO4JDd1
+IXkB7YRjRB?SS]j012<i5i1
+R1
+R2
+R12
+R13
+R14
+L0 25
+R6
+r1
+!s85 0
+31
+R15
+R16
+R17
+!i113 1
+R10
+R11
+ntb_m8@x3_encoder_behavior_modeling

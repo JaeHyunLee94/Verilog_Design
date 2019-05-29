@@ -1,0 +1,29 @@
+C:/Users/Lee/Desktop/CODE/Verilog/Design/Latch/tb_D_Latch.v {1 {vlog -work work -stats=none {C:\Users\Lee\Desktop\CODE\Verilog\Design\Latch\tb_D_Latch.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_D_Latch
+
+Top level modules:
+	tb_D_Latch
+
+} {} {}} C:/Users/Lee/Desktop/CODE/Verilog/Design/Latch/SR_Latch.v {1 {vlog -work work -stats=none {C:\Users\Lee\Desktop\CODE\Verilog\Design\Latch\SR_Latch.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module SR_latch
+
+Top level modules:
+	SR_latch
+
+} {} {}} C:/Users/Lee/Desktop/CODE/Verilog/Design/Latch/tb_SR_Latch.v {1 {vlog -work work -stats=none C:/Users/Lee/Desktop/CODE/Verilog/Design/Latch/tb_SR_Latch.v
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module tb_SR_Latch
+
+Top level modules:
+	tb_SR_Latch
+
+} {} {}} C:/Users/Lee/Desktop/CODE/Verilog/Design/Latch/D_Latch.v {1 {vlog -work work -stats=none {C:\Users\Lee\Desktop\CODE\Verilog\Design\Latch\D_Latch.v}
+Model Technology ModelSim - Intel FPGA Edition vlog 10.5b Compiler 2016.10 Oct  5 2016
+-- Compiling module D_Latch
+
+Top level modules:
+	D_Latch
+
+} {} {}}
